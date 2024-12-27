@@ -1,4 +1,4 @@
-# CodingNomads Java Fundamentals
+TEST # CodingNomads Java Fundamentas
 
 This project contains a variety of textbook Java examples and labs to accompany CodingNomads [Java 101](https://codingnomads.com/course/java-programming-101), [Java 201](https://codingnomads.com/course/java-programming-201), and [Java 301](https://codingnomads.com/course/java-programming-301) courses.
 
@@ -10,7 +10,7 @@ Please install the following before proceeding:
 - [IntelliJ IDE Community Edition](https://www.jetbrains.com/idea/download)  
 - [Git](https://codingnomads.com/how-to-install-git-windows-linux-mac)  
 
-## Getting Started
+## Getting Started with Java 
 
 To get started with this project please follow these instructions:
 
@@ -37,6 +37,5 @@ Now its time to run your first example!
 3. Double-click on `Example1` to open it.
 4. You can right click on the file and select 'Run' to run the code.
 
-## Sources
 
 Many of the examples in this project are sourced from O'Reilly Media and are available free for download [here](https://www.mhprofessional.com/9781259589317-usa-java-a-beginners-guide-seventh-edition-group).
